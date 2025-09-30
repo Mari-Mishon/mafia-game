@@ -1,4 +1,4 @@
-name: Build Mafia App
+name: Build Windows App
 
 on:
   workflow_dispatch: # запуск вручную
